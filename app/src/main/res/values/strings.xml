@@ -3,4 +3,5 @@
     <string name="btn_sign_out">Sign Out</string>
     <string name="facebook_application_id" translatable="false">338999936977701</string>
     <string name="facebook_login_protocol_scheme" translatable="false">fb338999936977701</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
